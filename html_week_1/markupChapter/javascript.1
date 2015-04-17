@@ -1,0 +1,24 @@
+/*
+
+Capitalizes first letter of a string
+'str': String
+return 'String'
+
+*/
+function capitalizeFirstLetter(str){
+    if(typeof(str) !== 'string')  return str;
+    var firstLetter = str.charAt(0);
+    var otherChars = str.substr(1);
+
+    return firstLetter.toUpperCase() + otherChars;
+
+}
+
+/* Now, here's the way you would run the above function
+capitalizeFirstLetter("colorado");
+
+
+
+
+
+['one', 'two', 'three'].map<capitalizeFirstLetter

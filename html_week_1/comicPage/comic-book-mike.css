@@ -1,0 +1,193 @@
+#panel3 {
+    background: transparent url(panel3.jpg) no-repeat top;
+    height: 305px;
+    width: 903px;
+}
+
+.row {
+    width: 908px;
+    margin: 0 auto;
+    position: relative;
+}
+#row3 div {
+    float: left;
+    margin: 0 auto;
+    position: relative;
+    display: inline-block;
+}
+
+.bump {
+    display: inline-block;
+}
+
+.bump2 {
+    margin-left:2px;
+}
+
+.bump5 {
+    margin-left: 5px;
+}
+
+.bump10 {
+    margin-left: 10px;
+}
+
+.bump12 {
+    margin-left: 12px;
+}
+
+.bump14 {
+    margin-left: 14px;
+}
+
+.bump22 {
+      margin-left: 22px;
+}
+
+.bump52 {
+    margin-left: 52px;
+}
+
+.bump92 {
+    margin-left: 92px;
+}
+
+.kern-tight {
+    letter-spacing: -1px;
+}
+
+.bold-ital {
+    font-style:italic;font-weight:bold;
+}
+
+.bubbles {
+    position: absolute;
+    font-family: Arial;
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+#bubble1 {
+    position: absolute;
+    top: 13px;
+    left: 18px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#bubble2 {
+    top: 13px;
+    left: 146px;
+    width: 310px;
+}
+
+#bubble3 {
+    top: 89px;
+    left: 196px;
+    width: 310px;
+    text-align: center;
+}
+
+#bubble4 {
+    top: 16px;
+    left: 484px;
+    width: 310px;
+}
+
+#bubble5 {
+    top: 17px;
+    left: 671px;
+    width: 239px;
+}
+
+#bubble6 {
+    top: 132px;
+    left: 711px;
+    width: 215px;
+}
+
+#bubble7 {
+    top: 277px;
+    left: 800px;
+    width: 114px;
+    text-align: center;
+}
+#bubble8 {
+     top: 11px;
+     left: 21px;
+     width: 180px;
+ }
+
+#bubble9 {
+    top: 11px;
+    left: 232px;
+    width: 190px;
+    text-align: center;
+}
+
+#bubble10 {
+    top: 16px;
+    left: 684px;
+    width: 215px;
+}
+
+#bubble11 {
+    top: 243px;
+    left: 225px;
+    width: 380px;
+}
+
+#bubble12 {
+     top: 5px;
+     left: 13px;
+     width: 210px;
+ }
+
+#bubble13 {
+    top: 7px;
+    left: 374px;
+    width: 210px;
+}
+
+#bubble14 {
+    top: 11px;
+    left: 734px;
+    width: 158px;
+}
+
+#bubble15 {
+    top: 462px;
+    left: 10px;
+    width: 170px;
+}
+
+#bubble16 {
+    top: 523px;
+    left: 215px;
+    width: 120px;
+    text-align: center;
+}
+
+#bubble17 {
+    top: 398px;
+    left: 380px;
+    width: 135px;
+}
+
+#bubble18 {
+    top: 486px;
+    left: 380px;
+    width: 135px;
+}
+
+#bubble19 {
+    top: 504px;
+    left: 708px;
+    width: 135px;
+}
+
+
+
+
+
+

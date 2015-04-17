@@ -1,0 +1,26 @@
+.centered-text{
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 320px;
+    color: #a9ed05;
+    font-family: 'Engagement', cursive;
+    text-align: center;
+    line-height: .8em;
+}
+
+
+p {
+    text-indent: 3em;
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+

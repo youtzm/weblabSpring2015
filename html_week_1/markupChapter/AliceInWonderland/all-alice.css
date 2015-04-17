@@ -1,0 +1,12 @@
+.centered-text {
+    width:50%;
+    margin:0 auto;
+    color:red;
+}
+
+h1 {
+    font-size:small;
+    color:green;
+    border-bottom-style:double;
+}
+
